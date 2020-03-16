@@ -52,6 +52,8 @@ jobs:
       run: | 
         mv ./nb/* ./dist/nb
         mv configuration.js ./dist/configuration.js
+        [ -d ./static ] && mv ./static/* ./dist/static/* 
+        [ -f ./index.md ] && mv index.md ./dist/static/index.md
         
     - name: Deploy
       uses: crazy-max/ghaction-github-pages@v1

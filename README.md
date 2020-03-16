@@ -37,6 +37,10 @@ This will work in your ``.md`` and ``.ipynb`` files.
 The ``data`` folder can be used to add data to the repository, which will be used by your scripts 
 or is distributed to your students, in case they clone this repository, too.
 
+### static folder
+
+The static folder can be used to 
+
 ### .ipynb files
 
 The files ending on ``.ipynb`` are the jupyter notebooks. They can be run by ``jupyter lab`` or ``jupyter notebook`` 
