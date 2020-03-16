@@ -26,8 +26,7 @@ var Config = {
                     link: "sample_lecture.slides.html"
                 }
             ]
-        }
-    ],
+        },
         // please do not remove this page
         // as it describes that you are using a hydrocode application
         {
@@ -35,4 +34,5 @@ var Config = {
             link: "about.md",
             type: "static"
         }
+    ]        
 };
