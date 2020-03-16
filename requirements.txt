@@ -1,2 +1,5 @@
 jupyter
 rise
+bokeh
+holoviews
+pandas
