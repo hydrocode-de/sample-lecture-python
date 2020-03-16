@@ -39,7 +39,8 @@ or is distributed to your students, in case they clone this repository, too.
 
 ### static folder
 
-The static folder can be used to 
+The static folder can be used to add static content to webpage in ``.md`` and ``.html`` format. The only exception from is rule is the ``index.md``, which is also allowed in 
+the root directory.
 
 ### .ipynb files
 
@@ -59,7 +60,7 @@ This file will be used as the landing page of the published [Notebook-Classroom]
 Introduce the module here, or give some advice to your students, how these resources 
 should be used.
 
-## Great. So what to do?
+## Great. I want that. So what to do?
 
 1. Add missing packages to the ``requirements.txt``
 2. Remove/replace all ``.ipynb`` with your lectures
