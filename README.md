@@ -1,6 +1,6 @@
 # Sample Lecture - Python
 
-### <a href="https://hydrocode.de"><img src="./img/hydrocode_logo.png" width="50" height="50" style="vertical-align:middle">&nbsp;&nbsp;a hydrocode application</a>
+### <a href="https://hydrocode.de"><img src="img/hydrocode_logo.png" width="50" height="50" style="vertical-align:middle">&nbsp;&nbsp;a hydrocode application</a>
 
 This is a template repository for creating lectures with [Jupyter Notebooks](https://jupyter.org) and publish them
 using [Notebook-Classroom](https://github.com/hydrocode-de/notebook-classroom). 
