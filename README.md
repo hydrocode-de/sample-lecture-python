@@ -8,6 +8,7 @@ using [Notebook-Classroom](https://github.com/hydrocode-de/notebook-classroom).
 The best way to build your own is to [generate a new repository using this as a template](https://github.com/hydrocode-de/sample-lecture-python/generate)
 
 <hr>
+
 ## What's contained?
 
 There are a cople of files in the repository. Most of them don't need to be touched, but you can use them to adjust 
@@ -64,4 +65,4 @@ should be used.
 
 1. Add missing packages to the ``requirements.txt``
 2. Remove/replace all ``.ipynb`` with your lectures
-3. Configure [Notebook-Classroom](https://github.com/hydrocode-de/notebook-classroom) application by adjusting [configuration.js]
+3. Configure [Notebook-Classroom](https://github.com/hydrocode-de/notebook-classroom) application by adjusting [configuration.js](configuration.js).
