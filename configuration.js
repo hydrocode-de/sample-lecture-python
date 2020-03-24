@@ -16,6 +16,10 @@ var Config = {
                 {
                     label: "Overview",
                     link: "sample_lecture.html"
+                },
+                {
+                    label: "Plots",
+                    link: "interactive_plots.html"
                 }
             ]
         },
@@ -26,6 +30,10 @@ var Config = {
                 {
                     label: "Overview",
                     link: "sample_lecture.slides.html"
+                },
+                {
+                    label: "Plots",
+                    link: "interactive_plots.slides.html"
                 }
             ]
         },
