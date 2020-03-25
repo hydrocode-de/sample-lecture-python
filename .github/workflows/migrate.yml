@@ -26,7 +26,8 @@ jobs:
     
     - name: install deps
       run: | 
+        conda create -f environment.yml -n buildenv
+        conda activate buildenv
         conda install jupyter -y
-        pip install -r requirements.txt
         jupyter nbconvert --to html *.ipynb
-        ll
+        ls
