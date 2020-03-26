@@ -26,6 +26,6 @@ jobs:
     
     - name: install deps
       run: | 
-        conda env update -f environment.yml
+        conda env update -f environment.yml -n base
         jupyter nbconvert --to html *.ipynb
         ls
