@@ -1,3 +1,4 @@
+name: lecture-py
 channels: 
   - defaults
 dependencies:
