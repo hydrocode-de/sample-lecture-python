@@ -1,4 +1,3 @@
-name: sample-lecture-py
 channels: 
   - defaults
 dependencies:
