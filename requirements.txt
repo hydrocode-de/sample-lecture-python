@@ -1,6 +1,6 @@
 jupyter
 rise
-bokeh==1.4.0
+bokeh==3.8.2
 matplotlib
 holoviews
 pandas
